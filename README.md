@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a 2nd-year Applied Data Science and AI student with hands-on experience in Machine Learning (ML) and Deep Learning (DL). I love turning ideas into practical solutions and have worked on a variety of projects, including:<br><br>     -Garbage Classification Web App – leveraging ML to promote sustainability.<br><br>     -OCR System for Banking Software – extracting and processing key data from receipt PDFs<br><br>     -Business Websites – designing and deploying user-friendly websites for clients.<br><br>     -Custom Chatbot Web Applications – currently building a website with a custom RAG chatbot during my part-time internship.<br><br>My current focus is on financial data, where I’m developing a full-stack GNN stock predictor with portfolio optimization to merge ML with real-world investing strategies.<br><br>I’m always eager to explore new technologies, contribute to open-source projects, and learn from the community.
 
 
